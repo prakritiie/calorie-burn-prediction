@@ -46,11 +46,13 @@ calorie-burn-prediction/
 
 ## 🚀 Model Performance
 
-       Model	                                RMSLE 
+### 🚀 Model Performance
 
-Gradient Boosting + GridSearch	                 0.07888
+| 🧠 Model                         | 📉 RMSLE     |
+|----------------------------------|--------------|
+| Gradient Boosting + GridSearch  | **0.07888**  |
+| Linear Regression                | 0.57401      |
 
-Linear Regression	                              0.57401
 
 
 ## 💡 What I Learned
