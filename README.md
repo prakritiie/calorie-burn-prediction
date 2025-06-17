@@ -43,17 +43,20 @@ calorie-burn-prediction/
 📈 Evaluation using RMSLE
 
 
+
 ## 🚀 Model Performance
 
-       Model	                    RMSLE 
+       Model	                                RMSLE 
 
-Gradient Boosting + GridSearch	     0.07888
+Gradient Boosting + GridSearch	                 0.07888
 
-Linear Regression	                  0.57401
+Linear Regression	                              0.57401
 
 
 ## 💡 What I Learned
 
 Proper handling of categorical variables using pd.get_dummies
+
 Model evaluation with RMSLE
+
 How GridSearchCV can greatly improve results 
