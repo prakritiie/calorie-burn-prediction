@@ -25,13 +25,21 @@ calorie-burn-prediction/
  ## Key Steps
 
 📦 Data loading 
+
 🔍 Exploratory Data Analysis (EDA)
+
 ⚙️ Feature engineering
+
 🔄 One-Hot Encoding for categorical features (Sex)
+
 ⚒️ Model training with:
+
   Linear Regression
+  
   Gradient Boosting Regressor
+  
 🔍 Hyperparameter tuning with GridSearchCV
+
 📈 Evaluation using RMSLE
 
 
@@ -39,8 +47,9 @@ calorie-burn-prediction/
 
        Model	                    RMSLE 
 
-Gradient Boosting + GridSearch	   0.07888
-Linear Regression	               0.57401
+Gradient Boosting + GridSearch	     0.07888
+
+Linear Regression	                  0.57401
 
 
 ## 💡 What I Learned
